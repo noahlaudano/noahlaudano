@@ -11,7 +11,6 @@ Working as data engineer at Neon Pagamentos <br>AWS Cloud Practitioner Certified
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nathaliaiscoding&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nathaliaiscoding&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaiscoding&theme=nord&hide_border=true&include_all_commits=true&count_private=true)
 
   ![Snake animation](https://github.com/nathaliaiscoding/nathaliaiscoding/blob/output/github-contribution-grid-snake.svg)
 
