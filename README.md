@@ -1,5 +1,10 @@
-# 👽 About Me
-Working as analytics engineer at Nubank<br>Experience as data engineer at Neon Pagamentos <br>Experience as technical support engineer at Microsoft<br>Experience as full stack .NET developer at an IoT company<br>AWS Cloud Practitioner Certified<br>Pursuing a bachelor's degree in Software Engineering
+## 👽 about me
+- Working as analytics engineer at Nubank
+- Experience as data engineer at Neon Pagamentos
+- Experience as technical support engineer at Microsoft
+- Experience as full stack .NET developer at an IoT company
+- AWS Cloud Practitioner Certified
+- Pursuing a bachelor's degree in Software Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noahlaudano)
 
